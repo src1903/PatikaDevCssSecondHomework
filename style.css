@@ -1,0 +1,42 @@
+body {
+    margin: auto;
+    width: 100%;
+}
+#logo {
+    text-align: center;
+}
+
+#search-bar {
+    text-align: center;
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+.button {
+    padding: 15px;
+}
+
+.links {
+    display:flex;
+    padding-top: 20px;
+    padding-right: 5px;
+}
+
+.link1{
+    background-color: #339966;
+    padding: 20px 100px;
+}
+
+.link2{
+    background-color: #339999;
+    padding: 20px 100px;
+}
+
+.link3{
+    background-color: #33CCCC;
+    padding: 20px 100px;
+}
+
+footer {
+    text-align: center;
+}
